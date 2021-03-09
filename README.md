@@ -1,6 +1,6 @@
 # Hello and Welcome
 
-This repository is a small collection of some short and some longer projects that I feel are indicative of my research interests and working methods.
+The repositories pinned on this profile are a small collection of some projects that I feel are indicative of my research interests and working methods.
 
 As I am primarily a DSP and Machine Learning engineer, the projects included are all in this direction. Each subdirectory here corresponds to a separate project, which includes all the scripts and data necessary to run and replicate my results. In cases where data has not been uploaded to Github, download links are provided. 
 
